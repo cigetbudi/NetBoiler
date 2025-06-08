@@ -1,0 +1,17 @@
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/bin/Debug/net10.0/NetBoiler.Application.deps.json
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/bin/Debug/net10.0/NetBoiler.Application.dll
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/bin/Debug/net10.0/NetBoiler.Application.pdb
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/bin/Debug/net10.0/NetBoiler.Domain.dll
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/bin/Debug/net10.0/NetBoiler.Infrastructure.dll
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/bin/Debug/net10.0/NetBoiler.Domain.pdb
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/bin/Debug/net10.0/NetBoiler.Infrastructure.pdb
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/obj/Debug/net10.0/NetBoiler.Application.csproj.AssemblyReference.cache
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/obj/Debug/net10.0/NetBoiler.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/obj/Debug/net10.0/NetBoiler.Application.AssemblyInfoInputs.cache
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/obj/Debug/net10.0/NetBoiler.Application.AssemblyInfo.cs
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/obj/Debug/net10.0/NetBoiler.Application.csproj.CoreCompileInputs.cache
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/obj/Debug/net10.0/NetBoile.212EACAA.Up2Date
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/obj/Debug/net10.0/NetBoiler.Application.dll
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/obj/Debug/net10.0/refint/NetBoiler.Application.dll
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/obj/Debug/net10.0/NetBoiler.Application.pdb
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/obj/Debug/net10.0/ref/NetBoiler.Application.dll

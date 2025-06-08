@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "35Su6a2gUyA=",
+  "success": true,
+  "projectFilePath": "/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Api/NetBoiler.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/cigetbudi/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0-preview.4.25258.110/microsoft.aspnetcore.openapi.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "/home/cigetbudi/.nuget/packages/microsoft.openapi/2.0.0-preview.17/microsoft.openapi.2.0.0-preview.17.nupkg.sha512"
+  ],
+  "logs": []
+}

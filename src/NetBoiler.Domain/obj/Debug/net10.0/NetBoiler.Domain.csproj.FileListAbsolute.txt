@@ -1,0 +1,11 @@
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/bin/Debug/net10.0/NetBoiler.Domain.deps.json
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/bin/Debug/net10.0/NetBoiler.Domain.dll
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/bin/Debug/net10.0/NetBoiler.Domain.pdb
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.AssemblyInfoInputs.cache
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.AssemblyInfo.cs
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.csproj.CoreCompileInputs.cache
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.dll
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/refint/NetBoiler.Domain.dll
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.pdb
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/ref/NetBoiler.Domain.dll

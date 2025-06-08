@@ -1,0 +1,106 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NetBoiler.Api/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.OpenApi": "10.0.0-preview.4.25258.110",
+          "NetBoiler.Application": "1.0.0"
+        },
+        "runtime": {
+          "NetBoiler.Api.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.OpenApi/10.0.0-preview.4.25258.110": {
+        "dependencies": {
+          "Microsoft.OpenApi": "2.0.0-preview.17"
+        },
+        "runtime": {
+          "lib/net10.0/Microsoft.AspNetCore.OpenApi.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.25910"
+          }
+        }
+      },
+      "Microsoft.OpenApi/2.0.0-preview.17": {
+        "runtime": {
+          "lib/net8.0/Microsoft.OpenApi.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "NetBoiler.Application/1.0.0": {
+        "dependencies": {
+          "NetBoiler.Domain": "1.0.0",
+          "NetBoiler.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "NetBoiler.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NetBoiler.Domain/1.0.0": {
+        "runtime": {
+          "NetBoiler.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NetBoiler.Infrastructure/1.0.0": {
+        "dependencies": {
+          "NetBoiler.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NetBoiler.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetBoiler.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.OpenApi/10.0.0-preview.4.25258.110": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-c280RbgoGrRwYozFvE/E4I0nag7MMyfsSv92wx+ZeZ1P7J6D0eMzZD889EADCVFWttZvf8oKiY84eZBj79K0VA==",
+      "path": "microsoft.aspnetcore.openapi/10.0.0-preview.4.25258.110",
+      "hashPath": "microsoft.aspnetcore.openapi.10.0.0-preview.4.25258.110.nupkg.sha512"
+    },
+    "Microsoft.OpenApi/2.0.0-preview.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jeTjhKn8yZjrROb0OibINAp4pTfZ0qRsnXdsq2RkHlczHScDEc8oG3BfTKfTtfpcpi0wO8F/GNCYbN59rOjVzg==",
+      "path": "microsoft.openapi/2.0.0-preview.17",
+      "hashPath": "microsoft.openapi.2.0.0-preview.17.nupkg.sha512"
+    },
+    "NetBoiler.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetBoiler.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetBoiler.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
