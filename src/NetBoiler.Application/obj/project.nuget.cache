@@ -1,8 +1,29 @@
 {
   "version": 2,
-  "dgSpecHash": "bXRMaN7YPvA=",
+  "dgSpecHash": "wGB+ARb/b2Y=",
   "success": true,
   "projectFilePath": "/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/NetBoiler.Application.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "/home/cigetbudi/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
+    "/home/cigetbudi/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
+    "/home/cigetbudi/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/cigetbudi/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/home/cigetbudi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/cigetbudi/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/cigetbudi/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.5.0 was resolved.",
+      "projectPath": "/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/NetBoiler.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/NetBoiler.Application.csproj",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
