@@ -5,6 +5,7 @@
 /home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.AssemblyInfoInputs.cache
 /home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.AssemblyInfo.cs
 /home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.csproj.CoreCompileInputs.cache
+/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.sourcelink.json
 /home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.dll
 /home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/refint/NetBoiler.Domain.dll
 /home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Domain/obj/Debug/net10.0/NetBoiler.Domain.pdb

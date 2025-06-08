@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetBoiler.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77ca3373d06d233ba698d49efd5adcb0eec4128f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90034872ba4646a7fc207422a9fb0f5de9e75768")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetBoiler.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetBoiler.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NetBoiler.Domain\NetBoiler.Domain.csproj" />
-    <ProjectReference Include="..\NetBoiler.Infrastructure\NetBoiler.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

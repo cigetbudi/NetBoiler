@@ -1,16 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ENv7gQTGSQw=",
+  "dgSpecHash": "3y5dMaLeR38=",
   "success": true,
   "projectFilePath": "/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Api/NetBoiler.Api.csproj",
   "expectedPackageFiles": [
-    "/home/cigetbudi/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
     "/home/cigetbudi/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
     "/home/cigetbudi/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/home/cigetbudi/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "/home/cigetbudi/.nuget/packages/microsoft.aspnetcore.openapi/10.0.0-preview.4.25258.110/microsoft.aspnetcore.openapi.10.0.0-preview.4.25258.110.nupkg.sha512",
-    "/home/cigetbudi/.nuget/packages/microsoft.openapi/2.0.0-preview.17/microsoft.openapi.2.0.0-preview.17.nupkg.sha512",
-    "/home/cigetbudi/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512"
+    "/home/cigetbudi/.nuget/packages/microsoft.openapi/2.0.0-preview.17/microsoft.openapi.2.0.0-preview.17.nupkg.sha512"
   ],
   "logs": [
     {

@@ -2,10 +2,13 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NetBoiler.Domain\NetBoiler.Domain.csproj" />
+    <ProjectReference Include="..\NetBoiler.Application\NetBoiler.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Dapper" Version="2.1.66" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.5" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="9.0.5" />
     <PackageReference Include="Npgsql" Version="9.0.3" />
   </ItemGroup>
 

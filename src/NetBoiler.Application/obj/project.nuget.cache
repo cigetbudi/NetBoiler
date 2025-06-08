@@ -1,16 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wGB+ARb/b2Y=",
+  "dgSpecHash": "9iILBKVzQLI=",
   "success": true,
   "projectFilePath": "/home/cigetbudi/netcore/NetBoiler/src/NetBoiler.Application/NetBoiler.Application.csproj",
   "expectedPackageFiles": [
-    "/home/cigetbudi/.nuget/packages/dapper/2.1.66/dapper.2.1.66.nupkg.sha512",
     "/home/cigetbudi/.nuget/packages/mediatr/12.5.0/mediatr.12.5.0.nupkg.sha512",
     "/home/cigetbudi/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/home/cigetbudi/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
-    "/home/cigetbudi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
-    "/home/cigetbudi/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
-    "/home/cigetbudi/.nuget/packages/npgsql/9.0.3/npgsql.9.0.3.nupkg.sha512"
+    "/home/cigetbudi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": [
     {
